@@ -1,0 +1,15 @@
+.gallery-info .info {
+    /* Oculta el contenido que sobrepasa el contenedor */
+    overflow: hidden;
+    /* Limita la altura del contenedor a una línea */
+    height: 1.2em;
+    /* Añade una transición suave al cambiar el estado */
+    transition: height 0.3s ease;
+}
+
+.gallery-info:hover .info {
+    /* Muestra el contenido que sobrepasa el contenedor */
+    overflow: visible;
+    /* Aumenta la altura del contenedor al tamaño del contenido */
+    height: auto;
+}

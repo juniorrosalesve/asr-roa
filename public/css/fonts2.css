@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'caldea-regular';
+    src: url('./fonts/Caladea-Regular.ttf');
+}
+@font-face {
+    font-family: 'caldea-bold';
+    src: url('./fonts/Caladea-Bold.ttf');
+}
+@font-face {
+    font-family: 'caldea-bold-italic';
+    src: url('./fonts/Caladea-BoldItalic.ttf');
+}
+@font-face {
+    font-family: 'caldea-italic';
+    src: url('./fonts/Caladea-Italic.ttf');
+}
+
+.caldea-regular {
+    font-family: caldea-regular;
+}
+.caldea-bold{
+    font-family: caldea-bold;
+}
+.caldea-bold-italic {
+    font-family: caldea-bold-italic;
+}
+.caldea-italic {
+    font-family: caldea-italic;
+}
