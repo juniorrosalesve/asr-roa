@@ -5,8 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ASR ROA - Agroinsumos y Servicios</title>
 
-    <meta name="description" content="Explore abstract art with Janeth Dominguez. Inspired by her Mexican heritage, she creates unique pieces balancing chaos and order. Join her artistic journey!">
-
     <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.css" rel="stylesheet" />
 
     @vite(['resources/css/app.css', 'resources/js/app.js'])
