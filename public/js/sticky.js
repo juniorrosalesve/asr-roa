@@ -52,7 +52,7 @@
           etse = elementTop - s.topSpacing - extra;
 
         //update height in case of dynamic content
-        s.stickyWrapper.css('height', '150px');
+        s.stickyWrapper.css('height', '180px');
 
         if (scrollTop <= etse) {
           if (s.currentTop !== null) {
