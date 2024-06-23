@@ -121,27 +121,40 @@
         <!-- Photo 2: right, Text 2: left -->
         <div class="flex flex-wrap md:flex-nowrap items-center justify-center mb-4">
             <div class="w-full md:w-1/2 p-2 order-last md:order-first md:ml-10" data-aos="fade-right">
-                <h1 class="roboto-medium text-2xl mb-4">Otro contenido</h1>
+                <h1 class="roboto-medium text-2xl mb-4">Productos y servicios:</h1>
                 <p class="text-lg text-justify roboto-regular my-2">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore ad sunt a quaerat est ratione quae pariatur molestias autem sed vitae ipsam voluptate modi temporibus sint explicabo quod, cupiditate delectus?
+                En Agroinsumos y Servicios ROA, ofrecemos una amplia gama de productos y servicios para satisfacer las necesidades de los productores agrícolas de la región:
+
+                Insumos agrícolas: Fertilizantes, semillas, herbicidas, insecticidas, fungicidas y otros productos fitosanitarios de las mejores marcas del mercado.
+                Asesoría técnica: Un equipo de agrónomos expertos le brindará asesoría personalizada en la selección de insumos, manejo de cultivos, control de plagas y enfermedades, y optimización de sus procesos productivos.
+                Servicios personalizados: Ofrecemos servicios como análisis de suelos, aplicación de herbicidas y fumigación, para complementar su actividad agrícola y mejorar su eficiencia.
                 </p>
                 <p class="text-lg text-justify roboto-regular my-2">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quidem dolores recusandae soluta iure officiis dolore dolor culpa, fugit, amet dolorem magni totam aperiam tenetur minus reprehenderit maxime, hic neque eius.
+                Equipo:
+
+                En Agroinsumos y Servicios ROA, contamos con un equipo de profesionales altamente capacitados y comprometidos con el éxito de nuestros clientes.
+                Nosotros como agrónomos, técnicos y personal administrativo estámos a su disposición para brindarle la atención y el apoyo que necesita para alcanzar sus metas.
                 </p>
             </div>
             <div class="w-full md:w-1/2 p-2 order-first md:order-last">
-                <img src="{{ asset('css/images/gallinas.webp') }}" alt="About 2" class="w-full md:w-[75%] mx-auto align-top rounded-lg shadow-lg">
+                <img src="{{ asset('css/images/equipo.jpg') }}" alt="About 2" class="w-full md:w-[75%] mx-auto align-top rounded-lg shadow-lg">
             </div>
         </div>
         <!-- Photo 3: left, Text 3: right -->
         <div class="flex flex-wrap md:flex-nowrap items-center justify-center mb-4">
             <div class="w-full md:w-1/2 p-2">
-                <img src="{{ asset('css/images/vaca-lechera.jpg') }}" alt="About 3" class="w-full md:w-[75%] mx-auto align-top rounded-lg shadow-lg">
+                <img src="{{ asset('css/images/misionyvision.jpg') }}" alt="About 3" class="w-full md:w-[75%] mx-auto align-top rounded-lg shadow-lg">
             </div>
             <div class="w-full md:w-1/2 p-2 md:mr-10" data-aos="fade-right">
-                <h1 class="text-2xl roboto-medium mb-4">Otro contenido</h1>
+                <h1 class="text-2xl roboto-medium mb-4">Mision y Vision.</h1>
                 <p class="text-lg text-justify roboto-regular">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor dignissimos culpa voluptatem deserunt id, aliquam, aliquid sunt reiciendis officiis nihil quo similique optio, architecto tenetur laborum possimus sit. Modi, nisi.
+                <h1 class="text-2xl roboto-medium mb-4">Mision:</h1>
+                Brindar a los clientes del sector agropecuario artículos de alta calidad, así como servicios especializados en la atención veterinaria y agrícola, con el objetivo de impulsar el éxito y la rentabilidad de las unidades de producción, negocios y comunidad en general.
+                Comprometidos a ofrecer un equipo innovador y enfocado en superar las expectativas de los usuarios.
+                
+                <h1 class="text-2xl roboto-medium mb-4">Vision:</h1>
+                Ser la empresa líder en el sector agropecuario, reconocida por la excelencia de nuestros productos, servicios y atención al cliente,
+                impulsando el desarrollo sostenible y la rentabilidad de las unidades de producción, negocios y la comunidad en general.
                 </p>
             </div>
         </div>
@@ -169,19 +182,19 @@
 
     <!-- Section 3: Contact -->
     <section id="contact" class="text-gray-800 py-20 px-4">
-        <h2 class="text-4xl text-center mb-4 roboto-bold" data-aos="zoom-in">Contactanos</h2>
+        <h2 class="text-4xl text-center mb-4 roboto-bold" data-aos="zoom-in">Contáctanos</h2>
         <p class="text-lg text-center mb-4 caldea-regular" data-aos="zoom-in">Si estás interesado en nuestro trabajo o quieres saber más sobre nosotros, puedes contactar con nosotros a través de los siguientes medios:</p>
         <div class="flex flex-wrap justify-center">
             <div class="w-full md:w-1/2 lg:w-1/3 p-2">
                 <div class="flex items-center space-x-2 bg-[#55AE50] p-4 rounded-lg shadow-lg" data-aos="fade-right">
                     <svg xmlns="http://www.w3.org/2000/svg" class="w-6" viewBox="0 0 512 512"><path fill="#c0c0c0" d="M164.9 24.6c-7.7-18.6-28-28.5-47.4-23.2l-88 24C12.1 30.2 0 46 0 64C0 311.4 200.6 512 448 512c18 0 33.8-12.1 38.6-29.5l24-88c5.3-19.4-4.6-39.7-23.2-47.4l-96-40c-16.3-6.8-35.2-2.1-46.3 11.6L304.7 368C234.3 334.7 177.3 277.7 144 207.3L193.3 167c13.7-11.2 18.4-30 11.6-46.3l-40-96z"/></svg>
-                    <a href="tel:+584247646482"><span class="text-xl caldea-regular tracking-wider">0424-7646482</span></a>
+                    <a href="Telefono: +584247646482"><span class="text-xl caldea-regular tracking-wider">0424-7646482</span></a>
                 </div>
             </div>
             <div class="w-full md:w-1/2 lg:w-1/3 p-2">
                 <div class="flex items-center space-x-2 bg-[#55AE50] p-4 rounded-lg shadow-lg" data-aos="fade-right">
                     <svg xmlns="http://www.w3.org/2000/svg" class="w-6" viewBox="0 0 512 512"><path fill="#c0c0c0" d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"/></svg>
-                    <a href="mailto:contacto@asroa.com"><span class="text-xl caldea-regular tracking-wider">contacto@asroa.com</span></a>
+                    <a href="mailto:agroinsumosyserviciosroa2024@gmail.com"><span class="text-xl caldea-regular tracking-wider">agroinsumosyserviciosroa2024@gmail.com</span></a>
                 </div>
             </div>
 
