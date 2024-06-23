@@ -70,7 +70,10 @@
             <div class="swiper-wrapper">
                 <!-- Aca puedes agregar varias imagenes para el slider -->
                 <div class="swiper-slide">
-                    <img src="{{ asset('css/images/ROA.png') }}" alt="slider-01" />          
+                    <img src="{{ asset('css/images/ROA.png') }}" alt="slider-01" />
+                </div>
+                <div class="swiper-slide">
+                <img src="{{ asset('css/images/ROA2.png') }}" alt="slider-02" />
                 </div>
             </div>
             <div class="swiper-button-next"></div>
