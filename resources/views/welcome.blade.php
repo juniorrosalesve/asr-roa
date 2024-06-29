@@ -95,12 +95,12 @@
                 <p class="text-lg text-justify roboto-regular my-2">
                 Agroinsumos y Servicios ROA: Su aliado para el éxito en el campo
                 En Guasdualito, estado Apure, Agroinsumos y Servicios ROA se enorgullece de ser su proveedor integral de insumos agrícolas, asesoría técnica y servicios personalizados para el agro.
-                Con más de 6 años de experiencia, estamos comprometidos a ayudar a los productores de la región a maximizar su productividad y rentabilidad.
+                Con más de 5 años de experiencia, estamos comprometidos a ayudar a los productores de la región a maximizar su productividad y rentabilidad.
                 </p>
                 <p class="text-lg text-justify roboto-regular my-2">
                 Nuestra historia:
 
-                Nacimos en [año] con la visión de apoyar el desarrollo del sector agrícola en Guasdualito y sus alrededores. Desde entonces, hemos crecido de la mano de nuestros clientes, adaptándonos a sus necesidades y las exigencias del mercado. Hoy en día, somos una empresa sólida y reconocida por nuestra calidad, eficiencia y compromiso.
+                Nacimos en 2019 con la visión de apoyar el desarrollo del sector agrícola en Guasdualito y sus alrededores. Desde entonces, hemos crecido de la mano de nuestros clientes, adaptándonos a sus necesidades y las exigencias del mercado. Hoy en día, somos una empresa sólida y reconocida por nuestra calidad, eficiencia y compromiso.
 
                 Misión, visión y valores:
 
@@ -188,7 +188,7 @@
             <div class="w-full md:w-1/2 lg:w-1/3 p-2">
                 <div class="flex items-center space-x-2 bg-[#55AE50] p-4 rounded-lg shadow-lg" data-aos="fade-right">
                     <svg xmlns="http://www.w3.org/2000/svg" class="w-6" viewBox="0 0 512 512"><path fill="#c0c0c0" d="M164.9 24.6c-7.7-18.6-28-28.5-47.4-23.2l-88 24C12.1 30.2 0 46 0 64C0 311.4 200.6 512 448 512c18 0 33.8-12.1 38.6-29.5l24-88c5.3-19.4-4.6-39.7-23.2-47.4l-96-40c-16.3-6.8-35.2-2.1-46.3 11.6L304.7 368C234.3 334.7 177.3 277.7 144 207.3L193.3 167c13.7-11.2 18.4-30 11.6-46.3l-40-96z"/></svg>
-                    <a href="Telefono: +584247646482"><span class="text-xl caldea-regular tracking-wider">0424-7646482</span></a>
+                    <a href="Telefono: +584247646482"><span class="text-xl caldea-regular tracking-wider">+584247646482</span></a>
                 </div>
             </div>
             <div class="w-full md:w-1/2 lg:w-1/3 p-2">
