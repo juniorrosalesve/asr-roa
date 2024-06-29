@@ -105,11 +105,11 @@
                 <p class="text-lg text-justify roboto-regular my-2">
                 Valores:
 
-                Responsabilidad: Trabajamos con ética y profesionalismo, asumiendo la responsabilidad de nuestros actos y compromisos.
-                Compromiso: Nos dedicamos con pasión a satisfacer las necesidades de nuestros clientes y contribuir al progreso del sector agrícola.
-                Calidad: Ofrecemos productos y servicios de la más alta calidad, garantizando su efectividad y seguridad.
-                Innovación: Buscamos constantemente nuevas soluciones y tecnologías para optimizar la productividad de nuestros clientes.
-                Sostenibilidad: Promovemos prácticas agrícolas sostenibles que cuiden el medio ambiente y aseguren la viabilidad del sector a largo plazo.
+                <p class="text-lg text-justify roboto-regular my-2">Responsabilidad: Trabajamos con ética y profesionalismo, asumiendo la responsabilidad de nuestros actos y compromisos.</p>
+                <p class="text-lg text-justify roboto-regular my-2">Compromiso: Nos dedicamos con pasión a satisfacer las necesidades de nuestros clientes y contribuir al progreso del sector agrícola.</p>
+                <p class="text-lg text-justify roboto-regular my-2">Calidad: Ofrecemos productos y servicios de la más alta calidad, garantizando su efectividad y seguridad.</p>
+                <p class="text-lg text-justify roboto-regular my-2">Innovación: Buscamos constantemente nuevas soluciones y tecnologías para optimizar la productividad de nuestros clientes.</p>
+                <p class="text-lg text-justify roboto-regular my-2">Sostenibilidad: Promovemos prácticas agrícolas sostenibles que cuiden el medio ambiente y aseguren la viabilidad del sector a largo plazo.</p>
                 </p>
             </div>
         </div>
