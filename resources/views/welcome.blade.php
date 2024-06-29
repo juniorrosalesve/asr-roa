@@ -101,13 +101,8 @@
                 Nuestra historia:
 
                 Nacimos en 2019 con la visión de apoyar el desarrollo del sector agrícola en Guasdualito y sus alrededores. Desde entonces, hemos crecido de la mano de nuestros clientes, adaptándonos a sus necesidades y las exigencias del mercado. Hoy en día, somos una empresa sólida y reconocida por nuestra calidad, eficiencia y compromiso.
-
-                Misión, visión y valores:
-
-                Misión: Brindar a los productores agrícolas de Guasdualito y el estado Apure insumos de alta calidad, asesoría técnica experta y servicios personalizados que les permitan optimizar sus cultivos y alcanzar el éxito en su actividad.
-
-                Visión: Convertirnos en la empresa líder en insumos agrícolas y servicios agropecuarios en la región, reconocida por nuestra excelencia, innovación y compromiso con el desarrollo sostenible del campo.
-
+                </p>
+                <p class="text-lg text-justify roboto-regular my-2">
                 Valores:
 
                 Responsabilidad: Trabajamos con ética y profesionalismo, asumiendo la responsabilidad de nuestros actos y compromisos.
@@ -143,7 +138,7 @@
         <!-- Photo 3: left, Text 3: right -->
         <div class="flex flex-wrap md:flex-nowrap items-center justify-center mb-4">
             <div class="w-full md:w-1/2 p-2">
-                <img src="{{ asset('css/images/misionyvision.jpg') }}" alt="About 3" class="w-full md:w-[75%] mx-auto align-top rounded-lg shadow-lg">
+                <img src="{{ asset('css/images/misionyvision.png') }}" alt="About 3" class="w-full md:w-[75%] mx-auto align-top rounded-lg shadow-lg">
             </div>
             <div class="w-full md:w-1/2 p-2 md:mr-10" data-aos="fade-right">
                 <h1 class="text-2xl roboto-medium mb-4">Mision y Vision.</h1>
