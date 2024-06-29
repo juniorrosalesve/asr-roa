@@ -88,7 +88,7 @@
         <!-- Photo 1: left, Text 1: right -->
         <div class="flex flex-wrap md:flex-nowrap items-center justify-center mb-4">
             <div class="w-full md:w-1/2 p-2">
-                <img src="{{ asset('css/images/ganado.jpg') }}" alt="About 1" class="w-full md:w-[75%] mx-auto align-top rounded-lg shadow-lg">
+                <img src="{{ asset('css/images/ROA2.png') }}" alt="About 1" class="w-full md:w-[75%] mx-auto align-top rounded-lg shadow-lg">
             </div>
             <div class="w-full md:w-1/2 p-2 md:mr-10" data-aos="fade-right">
                 <!-- <h1 class="text-2xl tracking-wider play-medium-italic mb-4">Me</h1> -->
