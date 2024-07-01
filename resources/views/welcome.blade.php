@@ -73,7 +73,13 @@
                     <img src="{{ asset('css/images/ROA.png') }}" alt="slider-01" />
                 </div>
                 <div class="swiper-slide">
-                <img src="{{ asset('css/images/ROA2.png') }}" alt="slider-02" />
+                    <img src="{{ asset('css/images/ROA2.png') }}" alt="slider-02" />
+                </div>
+                <div class="swiper-slide">
+                    <img src="{{ asset('css/images/ROA3.png') }}" alt="slider-03" />
+                </div>
+                <div class="swiper-slide">
+                    <img src="{{ asset('css/images/ROA4.png') }}" alt="slider-04" />
                 </div>
             </div>
             <div class="swiper-button-next"></div>
@@ -361,6 +367,19 @@
             xItemImagen.src     =   '{{ \Storage::url('productos/') }}'+item.rutaImagen;
             modal.classList.remove('hidden');
         }
+
+        var swiper = new Swiper(".mySwiper", {
+            spaceBetween: 30,
+            centeredSlides: true,
+            autoplay: {
+                delay: 3000,
+                disableOnInteraction: false,
+            },
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+        });
     </script>
 </body>
 </html>
